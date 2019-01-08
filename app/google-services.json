@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "691160718043",
+    "firebase_url": "https://brainmaster-2beba.firebaseio.com",
+    "project_id": "brainmaster-2beba",
+    "storage_bucket": "brainmaster-2beba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691160718043:android:c2ca56720bf8506b",
+        "android_client_info": {
+          "package_name": "com.example.mauricioliveira.kotlinapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691160718043-0eei7c6aodniv87da2troiqbjc6pu1il.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mauricioliveira.kotlinapp",
+            "certificate_hash": "b66f0af72f48f378892d73d4516a6928d18fe0bf"
+          }
+        },
+        {
+          "client_id": "691160718043-0273iv9o3137vt7jeanft60fvjdhuklj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7WJWe9s63CoGSuefWsLukA7Pm_rDiRu4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691160718043-0273iv9o3137vt7jeanft60fvjdhuklj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

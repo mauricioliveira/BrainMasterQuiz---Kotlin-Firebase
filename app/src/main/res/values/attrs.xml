@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LoginInput">
+        <attr name="text"/>
+        <attr name="inputType" format="enum">
+            <enum name="normal" value="0"/>
+            <enum name="textPassword" value="1"/>
+        </attr>
+        <attr name="drawable" />
+    </declare-styleable>
+</resources>
